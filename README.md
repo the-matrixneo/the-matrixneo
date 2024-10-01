@@ -1,7 +1,4 @@
-## Hi there 👋
 
-<!--
-**daky2024/daky2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <h1>Hi 👋, I'm Dakshata Mishra</h1>
