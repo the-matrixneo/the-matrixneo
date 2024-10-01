@@ -53,6 +53,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daky2024&hide_border=true&layout=compact" align="left" />  
 
 <br/>  
+![daky2024's Streak](https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=blue-green&hide_border=false)
+<br/>
 
 
 <div align="center">
