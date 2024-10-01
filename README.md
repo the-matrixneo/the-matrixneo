@@ -1,7 +1,7 @@
 ### **<div align="center"> Hi👋 , I'm Dakshata </div>**  
   
 
-- 🔭 I’m currently working on Gen AI Study JAM 2024  
+- 🔭 I’m currently working on Gen AI  Google Study JAM 2024  
   
 
 - 🌱 I’m currently learning C++  
@@ -15,7 +15,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill 
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,7 +57,7 @@
 <br/>
 
 
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=daky2024&&style=flat-square" align="center" />
 </div>  
   
