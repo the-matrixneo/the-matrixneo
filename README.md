@@ -54,12 +54,7 @@
 
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=black&show_border=true" alt="daky2024's GitHub Stats" />
-<br/>
 
-
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=daky2024&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
