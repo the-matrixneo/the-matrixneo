@@ -1,7 +1,7 @@
 ### **<div align="center"> Hi👋 , I'm Dakshata </div>**  
   
-- 👩‍🎓 I'm B.Tech CSE undegrad
-- 🙌 I’m currently working on GSsoc'24 Extnd. Programe  
+- 👩‍🎓 I'm B.Tech CSE undergrad
+- 🙌 I’m currently working on GSsoc'24 Extnd. Programme
 - 🤖 I’m currently learning C++
 
   
