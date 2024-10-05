@@ -1,10 +1,9 @@
 ### **<div align="center"> Hi👋 , I'm Dakshata </div>**  
   
+- 👩‍🎓 I'm B.Tech CSE undegrad
+- 🙌 I’m currently working on GSsoc'24 Extnd. Programe  
+- 🤖 I’m currently learning C++
 
-- 🔭 I’m currently working on Gen AI  Google Study JAM 2024  
-  
-
-- 🌱 I’m currently learning C++  
   
 
 <div align="center">
