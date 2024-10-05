@@ -52,7 +52,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daky2024&hide_border=true&layout=compact" align="left" />  
 
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=black&show_border=true" alt="daky2024's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=onedark&hide_border=true" alt="daky2024's GitHub Stats" />
 
   
 
