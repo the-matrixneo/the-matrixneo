@@ -6,8 +6,8 @@
 
   
 
-<div align="left">
-<img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="" width="600" />
+<div align="centre">
+<img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="" width="1000" />
 </div>  
   
 
