@@ -15,12 +15,12 @@
 
 
 ## My Skill 
-<table><tr><td valign="top" width="600">
+<table><tr><td valign="top" width="1000">
 
 
 
 ### Frontend  
-<div align="left">  
+<div align="centre">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10 px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10 px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10 px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -35,7 +35,7 @@
 
 
 ## Connect with me  
-<div align="left">
+<div align="centre">
 <a href="https://github.com/daky2024" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
