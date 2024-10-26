@@ -52,12 +52,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=onedark&hide_border=true" alt="daky2024's GitHub Stats" />
 
   
-<br/>  
-
-## GSSOC(24) Badges 
-<div style='display:flex; align-items:center; gap: 10 px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-<img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+<br/> 
   
 </div>
   
