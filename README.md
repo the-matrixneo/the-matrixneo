@@ -55,8 +55,14 @@
 
 <br/>  
 
-## GSsoc'24 Extnd Badge
-![Gssoc'24 Extd Badge](https://github.com/user-attachments/assets/b596845d-c7e8-494b-bf37-54110368a263)
+## GSsoc'24 Extnd Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  
+
+</div>
+
 
 
   
