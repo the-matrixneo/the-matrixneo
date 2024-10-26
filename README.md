@@ -50,9 +50,14 @@
 
 ## Github Stats 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=onedark&hide_border=true" alt="daky2024's GitHub Stats" />
-
-  
 <br/> 
+
+## GSsoc'24 Badge
+<a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
+  <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="150" height="150"  />
+</a>
+
+
   
 </div>
   
