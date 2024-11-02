@@ -54,9 +54,11 @@
 
 ## GSsoc'24 Badge
 <a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
-  <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="150" height="150"  />
-  (https://holopin.io/@daky2024)
+  <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="100" height="120"  />
+  <a herf="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG85eXI0NG0zMjUzMGZsOGRxcmR2eDh2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" target="_blank">
+    <img src="https://holopin.me/daky2024" alt="Early Bird Pegasaurus Badge" width="100" height="120" />
 </a>
+
 
 
   
