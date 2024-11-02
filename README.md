@@ -55,6 +55,7 @@
 ## GSsoc'24 Badge
 <a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
   <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="150" height="150"  />
+  [![An image of @daky2024's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/daky2024)](https://holopin.io/@daky2024)
 </a>
 
 
