@@ -7,8 +7,10 @@
     <div align="centre"> <img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="200" />
 </div>  
   
-### My Skill 
+ 
 <table><tr><td valign="top" width="1000">
+  
+ ### My Skill
 <img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="960" height="40" />
 
 ### Frontend  
