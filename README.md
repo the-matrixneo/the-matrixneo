@@ -44,7 +44,7 @@
 ## Github Stats 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=onedark&hide_border=true" alt="daky2024's GitHub Stats" />
 <br/> 
-<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif">
+<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="500" height="100" />
 
 ## GSsoc'24 Badge
 <a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
