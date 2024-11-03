@@ -7,7 +7,8 @@
     <div align="centre"> <img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="200" />
 </div>  
   
-## My Skill 
+### My Skill 
+<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="960" height="40" />
 <table><tr><td valign="top" width="1000">
 
 
@@ -27,7 +28,8 @@
 <br/>  
 
 
-## Let's Connect ! 
+### Let's Connect ! 
+<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="960" height="40" />
 <div align="centre">
 <a href="https://github.com/daky2024" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -38,7 +40,8 @@
 </div>  
   <br/>  
   
-## Github Stats 
+### Github Stats 
+<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="960" height="40" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=onedark&hide_border=true" alt="daky2024's GitHub Stats" />
 <br/> 
 
