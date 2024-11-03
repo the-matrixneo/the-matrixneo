@@ -5,10 +5,6 @@
 - 🤖 I’m currently learning C++ <div align="right"><img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="200" />
 </div>  
   
-
-<br/>  
-
-
 ## My Skill 
 <table><tr><td valign="top" width="1000">
 
