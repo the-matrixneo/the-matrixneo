@@ -9,9 +9,6 @@
   
 ### My Skill 
 <img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="960" height="40" />
-<table><tr><td valign="top" width="1000">
-
-
 
 ### Frontend  
 <div align="centre">  
@@ -26,8 +23,6 @@
 
 
 <br/>  
-
-
 ### Let's Connect ! 
 <img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="960" height="40" />
 <div align="centre">
