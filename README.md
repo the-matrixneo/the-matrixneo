@@ -40,7 +40,7 @@
   <br/>  
   
 ### Github Stats 
-<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="840" height="40" />
+<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="800" height="40" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=onedark&hide_border=true" alt="daky2024's GitHub Stats" />
 <br/> 
 
@@ -51,7 +51,6 @@
 </a>
 </div>
     <img src="https://holopin.me/daky2024" alt="Early Bird Pegasaurus Badge" width="250" height="150" />
-</a>
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="150" height="150" />
 </div>
 <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150" height="150" />
