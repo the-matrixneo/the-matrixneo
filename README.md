@@ -52,9 +52,9 @@
 </div>
     <img src="https://holopin.me/daky2024" alt="Early Bird Pegasaurus Badge" width="250" height="150" />
 </a>
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="150" height="150" />
 </div>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150" height="150" />
 
 
 
