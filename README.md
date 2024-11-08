@@ -41,9 +41,9 @@
   
 ### Github Stats 
 <img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="800" height="40" />
-<div align="left">
+<div align="centre">
 <img src="https://github-readme-stats.vercel.app/api?username=daky2024&theme=merko&show_icons=true&hide_border=false&count_private=true" width="750" height="150">
-  <div align="right">
+  <div align="centre">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="750" height="150" >
 <br/> 
 
