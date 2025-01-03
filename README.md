@@ -6,12 +6,10 @@
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
 - ⛄ I’m currently working on SWOC'24 Programme
   </div>
-  <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="right" height="200" width="150">
+  <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="right" height="1500" width="150">
    
    ## My Skill
 <h3 align="centre">🛠 Language and tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
