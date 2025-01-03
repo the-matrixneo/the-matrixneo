@@ -1,12 +1,13 @@
-### **<div align="center"> Hi 👋 , I'm Dakshata </div>**  
+### **<div align="center"> Hi 👋 , I'm Dakshata  </div>**  
 
  
-  <div align="centre">
+  <div align="left">
 - 👩‍🎓 Student || B.Tech CSE 
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
 - ⛄ I’m currently working on SWOC'24 Programme
   </div>
-  
+  <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="right">
+   
    ## My Skill
 <h3 align="centre">🛠 Language and tools</h3>
 
@@ -43,6 +44,7 @@
   <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >
 <br/> 
+
 
 
 
