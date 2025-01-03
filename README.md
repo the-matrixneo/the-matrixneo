@@ -7,7 +7,7 @@
 - ⛄ I’m currently working on SWOC'24 Programme
   </div>
 
- <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="centre" height="150" width="250">
+ <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="centre" height="170" width="250">
    
    ## My Skill
 <h3 align="centre">🛠 Language and tools</h3>
@@ -38,10 +38,12 @@
 </div>  
   <br/>  
   
-## Github Stats 📊
+## Github Stats :octocat:
 
   <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >✨
+
+ ## Badge ✨
 <br/> 
 
 
