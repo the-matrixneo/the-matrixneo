@@ -1,20 +1,16 @@
-### **<div align="center"> Hi👋 , I'm Dakshata </div>**  
+### **<div align="center"> Hi 👋 , I'm Dakshata </div>**  
   
-- 👩‍🎓 I'm B.Tech CSE undergrad
-- 🙌 I’m currently working on SWOC'24 Programme
+- 👩‍🎓 Student || B.Tech CSE 
+- 🦋 Contributor GSsoc'24 || Hacktoberfest'24
+- ⛄ I’m currently working on SWOC'24 Programme
   
 
-    <div align="centre"><img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="200" />
-</div>  
-  
- 
-<table><tr><td valign="top" width="1000">
+    <div align="centre"><img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="right" height="100" />
+</div>
   
  ## My Skill
 
-### Frontend  
-###
-
+### Frontend
 <h3 align="centre">🛠 Language and tools</h3>
 
 ###
