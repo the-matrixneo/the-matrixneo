@@ -1,11 +1,12 @@
 ### **<div align="center"> Hi 👋 , I'm Dakshata  </div>**  
-
- 
-  <div align="centre">
+<div align="left">
+   
 - 👩‍🎓 Student || B.Tech CSE 
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
 - ⛄ I’m currently working on SWOC'24 Programme
   </div>
+
+  
 <div align="centre">
 <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="centre" height="170" width="250">
 </div>
