@@ -1,10 +1,11 @@
 ### **<div align="center"> Hi 👋 , I'm Dakshata </div>**  
-<div align = "centre">
+
   <img src="https://gifdb.com/images/high/pink-blossom-sparkling-animation-0ajdc1ccl5nqlvq4.gif" align=" right" height="160">
-  
+  <div align="centre">
 - 👩‍🎓 Student || B.Tech CSE 
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
 - ⛄ I’m currently working on SWOC'24 Programme
+  </div>
   
 
     <div align="right"><img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="right" height="100" />
