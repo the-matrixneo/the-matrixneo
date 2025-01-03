@@ -9,8 +9,6 @@
 </div>
   
  ## My Skill
-
-### Frontend
 <h3 align="centre">🛠 Language and tools</h3>
 
 ###
@@ -41,24 +39,21 @@
 </div>  
   <br/>  
   
-## Github Stats 
+## Github Stats 📊
 
   <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >
 <br/> 
 
 ### GSsoc'24 Badge 🍁
-<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="500" height="40" />
+<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="500" height="500" />
 <a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
   <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="120" height="120"  />
+  <img src="![image](https://github.com/user-attachments/assets/19d0a865-16ee-465a-bf67-4ff92a4900a8) width="120" height="60"/>
+"
 </a>
 </div>
     <img src="https://holopin.me/daky2024" alt="Early Bird Pegasaurus Badge" width="150" height="150" />
-
-
-
-
-  
 </div>
   
 
