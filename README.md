@@ -7,8 +7,7 @@
 - ⛄ I’m currently working on SWOC'24 Programme
   </div>
 
-  
-  <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="centre" height="150" width="150">
+ <img src="https://images.gamebanana.com/img/ico/sprays/55bcafb27b56e.gif" align="centre" height="150" width="150">
    
    ## My Skill
 <h3 align="centre">🛠 Language and tools</h3>
