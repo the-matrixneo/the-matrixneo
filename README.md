@@ -1,8 +1,8 @@
 ### **<div align="center"> Hi👋 , I'm Dakshata </div>**  
   
 - 👩‍🎓 I'm B.Tech CSE undergrad
-- 🙌 I’m currently working on GSsoc'24 Extnd. Programme
-- 🤖 I’m currently learning C++
+- 🙌 I’m currently working on SWOC'24 Programme
+  
 
     <div align="centre"><img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="center" height="200" />
 </div>  
@@ -51,9 +51,7 @@
 </a>
 </div>
     <img src="https://holopin.me/daky2024" alt="Early Bird Pegasaurus Badge" width="250" height="150" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="150" height="150" />
-</div>
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="150" height="150" />
+
 
 
 
