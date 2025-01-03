@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-## Let's Connect ! 
+## 🙌 Let's Connect ! 
 
 <div align="left">
 <a href="https://github.com/daky2024" target="_blank">
@@ -38,12 +38,12 @@
 </div>  
   <br/>  
   
-## Github Stats :octocat:
+## :octocat: Github Stats
 
   <div align="left">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >✨
 
- ## Badge ✨
+ ## ✨ Badge 
 <br/> 
 
 
