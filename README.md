@@ -1,5 +1,6 @@
 ### **<div align="center"> Hi 👋 , I'm Dakshata </div>**  
-<div align = "right"><img src="https://gifdb.com/images/high/pink-blossom-sparkling-animation-0ajdc1ccl5nqlvq4.gif" align=" right" height="160">
+<div align = "centre">
+  <img src="https://gifdb.com/images/high/pink-blossom-sparkling-animation-0ajdc1ccl5nqlvq4.gif" align=" right" height="160">
   
 - 👩‍🎓 Student || B.Tech CSE 
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
