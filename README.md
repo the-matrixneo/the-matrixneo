@@ -41,12 +41,13 @@
 ## :octocat: Github Stats
 
   <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >✨
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >
 
  ## ✨ Badge 
- <div align="centre"
+ <div align="centre">
  <img src="![Hoplin badge 2024](https://github.com/user-attachments/assets/93d4d3ee-28de-485c-b8e3-67c6b83b161f)
-"
+" height= "150" width="300"/>
+  </div>
 <br/> 
 
 
