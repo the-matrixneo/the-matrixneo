@@ -1,4 +1,5 @@
 ### **<div align="center"> Hi 👋 , I'm Dakshata </div>**  
+<div align = "centre"><img src="https://gifdb.com/images/high/pink-blossom-sparkling-animation-0ajdc1ccl5nqlvq4.gif" align=" right" height="160">
   
 - 👩‍🎓 Student || B.Tech CSE 
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
@@ -46,10 +47,9 @@
 <br/> 
 
 ### GSsoc'24 Badge 🍁
-<img src="https://i.pinimg.com/originals/00/ad/6f/00ad6f38956b7e4cb78097d4a613bb4e.gif" width="500" height="500" />
 <a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
   <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="120" height="120"  />
-  <img src="![image](https://github.com/user-attachments/assets/19d0a865-16ee-465a-bf67-4ff92a4900a8) width="120" height="60"/>
+  
 "
 </a>
 </div>
