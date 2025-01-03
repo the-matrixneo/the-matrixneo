@@ -1,17 +1,13 @@
 ### **<div align="center"> Hi 👋 , I'm Dakshata </div>**  
 
-  <img src="https://gifdb.com/images/high/pink-blossom-sparkling-animation-0ajdc1ccl5nqlvq4.gif" align=" right" height="160">
+ 
   <div align="centre">
 - 👩‍🎓 Student || B.Tech CSE 
 - 🦋 Contributor GSsoc'24 || Hacktoberfest'24
 - ⛄ I’m currently working on SWOC'24 Programme
   </div>
   
-
-    <div align="right"><img src="https://www.searchenginegenie.com/web-design-blog/wp-content/uploads/2014/07/final-image.gif" align="right" height="100" />
-</div>
-  
- ## My Skill
+   ## My Skill
 <h3 align="centre">🛠 Language and tools</h3>
 
 ###
@@ -48,16 +44,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >
 <br/> 
 
-### GSsoc'24 Badge 🍁
-<a href="https://api.badgr.io/public/assertions/7iYufki8QPCwFQPb7yArEA" target="_blank">
-  <img src="https://badgr.com/public/assertions/cfKl1-08Qfue34_PDGqKBw/image" alt="Postman API Fundamentals Student Expert Badge"  width="120" height="120"  />
-  
-"
-</a>
-</div>
-    <img src="https://holopin.me/daky2024" alt="Early Bird Pegasaurus Badge" width="150" height="150" />
-</div>
-  
+
 
 
 
