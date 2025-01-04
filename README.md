@@ -1,4 +1,4 @@
-#### **<div align="center"> <h1>Hi! I'm Dakshata <span class="wave">👋</span></h1> <h3> Cogito, ergo Sum ~ ✍️(◔◡◔) </h3></div>**  
+#### **<div align="center"> <h1>Hi! I'm Dakshata <span class="wave">👋</span></h1> <h3> 𝖈𝖔𝖌𝖎𝖙𝖔, 𝖊𝖗𝖌𝖌𝖔 𝖘𝖚𝖒 ~ 🌸(◔◡◔) </h3></div>**  
 <div align="left">
    
 - 👩‍🎓 Student | B.Tech CSE 
