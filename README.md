@@ -46,7 +46,7 @@
    
 ## 🪶 Badges 
    <div align ="left">
-   <img src="![Hoplin badge 2024](https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd)" alt="Hoplin Badge">
+   <img src="![Hoplin badge 2024](https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd)" alt="Hoplin Badge"></div>
 
 
     
