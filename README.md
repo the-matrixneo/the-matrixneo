@@ -46,7 +46,10 @@
    
 ## 🪶 Badges 
    <div align ="left">
-   <img src="https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd" alt="Hoplin Badge" width="550" height="170"></div>
+   <img src="https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd" alt="Hoplin Badge" width="550" height="170">
+   <img src="https://github.com/user-attachments/assets/2a18d6dd-b1c3-4959-8748-ce328df4dec1" alt="champion badge" width="250 " height="170">
+
+   </div>
 
 
     
