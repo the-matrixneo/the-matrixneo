@@ -2,8 +2,8 @@
 <div align="left">
    
 - 👩‍🎓 Student || B.Tech CSE 
-- 🦋 Contributor GSsoc'24 || Hacktoberfest'24
-- ⛄ I’m currently working on SWOC'24 Programme
+- 💡 Contributor GSsoc'24 || Hacktoberfest#11
+- ❄️ I’m currently working on SWOC'24 Programme
   </div>
 
   
@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-## 🙌 Let's Connect ! 
+## 🔗 Let's Connect ! 
 
 <div align="left">
 <a href="https://github.com/daky2024" target="_blank">
@@ -38,15 +38,20 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  <br/>  
   
 ## :octocat: Github Stats
 
   <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" ></div>
+   
+## 🪶 Badges 
+   <div align ="left">
+   <img src="![Hoplin badge 2024](https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd)" alt="Hoplin Badge"
 
 
-<br/> 
+    
+
+
 
 
 
