@@ -4,6 +4,7 @@
 - 👩‍🎓 Student | B.Tech CSE 
 - 💡 Contributor GSsoc'24 | Hacktoberfest#11
 - ❄️ I’m currently working on SWOC'24 Programme
+- 📖 <p>DEV Community <a herf="https://dev.to/matrix_0120">Post</a> </p>
   </div>
 
   
