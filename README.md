@@ -1,9 +1,9 @@
 #### **<div align="center"> <h1>Hi! I'm Dakshata <span class="wave">👋</span></h1> <h3> 𝖈𝖔𝖌𝖎𝖙𝖔, 𝖊𝖗𝖌𝖌𝖔 𝖘𝖚𝖒 ~ 🌸(◔◡◔) </h3></div>**  
 <div align="left">
    
-- 👩‍🎓 Student | B.Tech CSE 
-- 💡 Contributor GSsoc'24 | Hacktoberfest#11
-- ❄️ I’m currently working on SWOC'24 Programme
+- 👩‍🎓 𝘚𝘵𝘶𝘥𝘦𝘯𝘵 | 𝘉.𝘵𝘦𝘤𝘩𝘊𝘚𝘌 
+- 💡 𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘰𝘳 𝘎𝘚𝘴𝘰𝘤'24 | 𝘏𝘢𝘤𝘬𝘵𝘰𝘣𝘦𝘳𝘧𝘦𝘴𝘵#11
+- ❄️ 𝘐’𝘮 𝘤𝘶𝘳𝘳𝘦𝘯𝘵𝘭𝘺 𝘸𝘰𝘳𝘬𝘪𝘯𝘨 𝘰𝘯 𝘚𝘞𝘖𝘊'24 𝘗𝘳𝘰𝘨𝘳𝘢𝘮𝘮𝘦
 
   </div>
 
@@ -13,7 +13,7 @@
 </div>
    
    ## 𝙈𝙮 𝙎𝙠𝙞𝙡𝙡
-<h3 align="centre">🛠 Language and tools</h3>
+<h3 align="centre">🛠 𝘓𝘢𝘯𝘨𝘶𝘢𝘨𝘦 𝘢𝘯𝘥 𝘛𝘰𝘰𝘭𝘴</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
