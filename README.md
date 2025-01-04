@@ -1,8 +1,8 @@
 ### **<div align="center"> Hi 👋 , I'm Dakshata  </div>**  
 <div align="left">
    
-- 👩‍🎓 Student || B.Tech CSE 
-- 💡 Contributor GSsoc'24 || Hacktoberfest#11
+- 👩‍🎓 Student | B.Tech CSE 
+- 💡 Contributor GSsoc'24 | Hacktoberfest#11
 - ❄️ I’m currently working on SWOC'24 Programme
   </div>
 
@@ -46,7 +46,7 @@
    
 ## 🪶 Badges 
    <div align ="left">
-   <img src="![Hoplin badge 2024](https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd)" alt="Hoplin Badge"></div>
+   <img src="https://github.com/user-attachments/assets/ea33cc0b-f355-413c-afef-4ce17e57f3dd" alt="Hoplin Badge"></div>
 
 
     
