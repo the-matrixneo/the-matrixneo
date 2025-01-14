@@ -43,7 +43,7 @@
 ## :octocat: 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
   <div align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=daky2024&theme=merko&hide_border=true" width="550" height="150" ></div>
+    <img src="https://github-readme-stats.vercel.app/api?username=the-matrixneo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="550" height="150" ></div>
    
 ## 🪶 𝘽𝙖𝙙𝙜𝙚𝙨
    <div align ="left">
