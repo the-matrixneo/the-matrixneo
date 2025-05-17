@@ -2,7 +2,7 @@
 <div align="left">
    
 - 👩‍🎓   1st year ug | Learning WebD |
-- 💡 𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘰𝘳#177 𝘎𝘚𝘴𝘰𝘤'24  | 𝘏𝘢𝘤𝘬𝘵𝘰𝘣𝘦𝘳𝘧𝘦𝘴𝘵#11 | SWOC'25
+- 🥑 𝘊𝘰𝘯𝘵𝘳𝘪𝘣𝘶𝘵𝘰𝘳#177 𝘎𝘚𝘴𝘰𝘤'24  | 𝘏𝘢𝘤𝘬𝘵𝘰𝘣𝘦𝘳𝘧𝘦𝘴𝘵#11 | SWOC'25
 </div>
 
   
@@ -26,19 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-## 🔗 𝙇𝙚𝙩'𝙨 𝘾𝙤𝙣𝙣𝙚𝙘𝙩!  
-
-<div align="left">
-<a href="https://github.com/daky2024" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/daky2024" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
   
-## :octocat: 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
+  ## :octocat: 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙖𝙩𝙨
 
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=the-matrixneo&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="550" height="150" ></div>
